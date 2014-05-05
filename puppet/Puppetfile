@@ -1,0 +1,10 @@
+# Configuration for librarian-puppet.
+forge 'http://forge.puppetlabs.com'
+
+mod 'puppetlabs/stdlib'
+mod 'puppetlabs/apt'
+mod 'puppetlabs/apache'
+mod 'puppetlabs/mysql'
+mod 'example42/php'
+mod 'tPl0ch/composer'
+mod 'puppetlabs/git'
